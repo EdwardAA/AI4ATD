@@ -1,0 +1,67 @@
+,,Differentiation Present (1/false; not case sensitive),,,"Targeted Treatment
+(mark with 1 for conditon that should be targeted, leave others blank; not case sensitive)",,,"Error present in graph
+(mark with x if 1; not case sensitive)",,Notes
+#,subject ID,tangible,demand,attention,tangible,demand,attention,error in graph,brief explenation,
+0,2,1,1,0,1,0,0,,,Potentially target demand after tangible if behavior persists
+1,3,1,0,0,1,0,0,,,
+2,4,0,1,0,0,1,0,,,
+3,9,,,,,,,1,elevated bx in control,
+4,13,1,0,0,1,0,0,,,
+5,14,1,0,1,1,0,1,,,
+6,16,1,0,0,1,0,0,,,
+7,18,1,0,1,1,0,0,,,Potentially target attention after tangible if behavior persists
+8,19,,,,,,,1,elevated bx in control,
+9,20,0,1,1,0,1,1,,,
+10,22,0,0,1,0,0,1,,,
+11,23,1,0,0,1,0,0,,,
+12,24,,,,,,,1,elevated bx in control,
+13,25,0,1,0,0,1,0,,,
+14,26,1,0,1,1,0,0,,,Need more data for the demand and potentially treat attention after tangible
+15,28,1,0,0,1,0,0,,,Need more data for attention and demand
+16,30,0,1,0,0,1,0,,,
+17,31,0,1,0,0,1,0,,,But we really should have a minimum of 3 data points so we kind of need one more demand condition
+18,34,1,1,0,1,1,0,,,
+19,36,1,1,0,1,1,0,,,
+20,38,0,1,0,0,1,0,,,Need more data for tangible
+21,43,1,0,0,1,0,0,,,
+22,46,0,0,1,0,0,1,,,But really we should have a minimum of 3 data points for attention
+23,47,,,,,,,1,elevated bx in control,
+24,48,,,,,,,1,too much variability leads me to think we don't have control or automatically maintained,
+25,49,,,,,,,1,elevated bx in control,
+26,50,1,0,0,1,0,0,,,Need more information for attention
+27,52,1,1,0,1,1,0,,,
+28,54,1,0,1,1,0,1,,,
+29,56,0,0,1,0,0,1,,,
+30,57,0,0,1,0,0,1,,,But we really should have a minimum of 3 data points so we kind of need one more attention condition
+31,58,0,1,0,0,1,0,,,
+32,61,1,0,0,1,0,0,,,
+33,64,1,1,0,1,1,0,,,
+34,68,1,1,1,1,1,1,,,
+35,69,1,0,0,1,0,0,,,
+36,70,0,1,0,0,1,0,,,
+37,71,,,,,,,1,elevated bx in control,
+38,72,0,1,1,0,1,0,,,May treat attention if behavior persists after treating demand
+39,74,1,0,0,1,0,0,,,More data needed for demand condition
+40,76,1,0,0,1,0,0,,,
+41,78,1,1,1,1,1,0,,,More data is needed for attention given the variability
+42,79,1,0,0,1,0,0,,,
+43,80,0,1,0,0,1,0,,,
+44,82,0,1,0,0,1,0,,,
+45,101,1,1,0,1,1,0,,,
+46,102,1,1,0,1,1,0,,,
+47,103,,,,,,,1,elevated bx in control,
+48,104,0,1,0,0,1,0,,,
+49,105,0,1,0,0,1,0,,,
+50,106,1,0,1,1,0,0,,,Need more data in demand and would target attention after tangible if behavior persists
+51,107,,,,,,,1,elevated bx in control,
+52,110,1,0,1,1,0,0,,,Demand and attention needs more data
+53,111,1,0,1,1,0,1,,,Demand needs more data
+54,132,,,,,,,1,elevated bx in control,
+55,133,1,0,0,1,0,0,,,
+56,134,,,,,,,1,elevated bx in control,
+57,136,1,0,0,1,0,0,,,
+58,140,1,0,1,0,0,1,,,Would treat tangible if behavior persists after treating attention
+59,142,,,,,,,1,elevated bx in control,
+60,143,,,,,,,1,elevated bx in control,
+61,156,0,0,1,0,0,1,,,
+62,158,0,1,0,0,1,0,,,
